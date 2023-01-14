@@ -1,5 +1,5 @@
-# wgg_notebooks
-Notebooks for Word_guessing_game project
+# WGG-1-implement-fasttext-in-local-env
+Console implementation of the WGG project
 
 ## Запуск скрипта
 1. Подготовка
